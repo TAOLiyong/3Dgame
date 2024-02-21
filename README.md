@@ -9,5 +9,5 @@ tutorial url: https://learn.unity.com/project/john-lemon-s-haunted-jaunt-3d-begi
 execute: ./Build/John Lemon’s Haunted Jaunt.exe
 
 ## issues
-- don't have Esc menu(close game by task manager or arrive the goal)
+- don't have Esc menu(close game by task manager or arriving the goal)
 - won't be game over even aganist the ghost
